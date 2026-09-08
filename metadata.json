@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare — Smart Campus Complaint Management System",
+  "description": "Smart campus complaint registration, tracking, and administration management portal for college students and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
